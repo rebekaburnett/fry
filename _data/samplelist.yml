@@ -1,0 +1,14 @@
+docs_list_title: MY Documentation
+docs:
+
+- title: Introduction
+  url: index.html
+
+- title: Vipps eCommerce API
+  url: vipps-ecom-api.html
+
+- title: Vipps eCommerce API Checklist
+  url: vipps-ecom-api-checklist.html
+
+- title: Frequently Asked Questions
+  url: vipps-ecom-api-faq.html
