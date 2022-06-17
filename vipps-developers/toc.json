@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "type": "item",
+      "title": "Vipps Developers",
+      "uri": "/docs/README.md"
+    },
+    {
+      "type": "item",
+      "title": "Getting Started",
+      "uri": "/docs/vipps-getting-started.md"
+    },
+    {
+      "type": "item",
+      "title": "Vipps API Lifecycle",
+      "uri": "/docs/vipps-api-lifecycle.md"
+    },
+    {
+      "type": "item",
+      "title": "The Vipps Test Environment (MT)",
+      "uri": "/docs/vipps-test-environment.md"
+    },
+    {
+      "type": "item",
+      "title": "Postman guide",
+      "uri": "/docs/postman-guide.md"
+    },
+    {
+      "type": "group",
+      "title": "Clickable Group",
+      "uri": "docs/group-test.md",
+      "items": [
+        {
+          "type": "item",
+          "title": "Nested readme",
+          "uri": "/docs/README.md"
+        },
+        {
+          "type": "item",
+          "title": "External Link",
+          "uri": "https://stoplight.io"
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "title": "eComm Guide",
+      "uri": "https://testingv.stoplight.io/docs/ecomv2/nv4g7zikyx0cv-vipps-e-commerce-api-version-2"
+    }
+  ]
+}
